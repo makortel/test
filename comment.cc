@@ -23,3 +23,12 @@
  Usage: Produces data objects for ESProducers in EventSetup system
 
 */
+
+//
+/** \class edm::eventsetup::Callback
+
+ Description: Functional object used as the 'callback' for the CallbackESProductResolver
+
+ Usage: Produces data objects for ESProducers in EventSetup system
+
+*/
