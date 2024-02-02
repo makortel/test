@@ -16,9 +16,6 @@
   */
 
 //
-// Package:     Framework
-// Class  :     Callback
-//
 /**\class edm::eventsetup::Callback
 
  Description: Functional object used as the 'callback' for the CallbackESProductResolver
