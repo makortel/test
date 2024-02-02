@@ -32,3 +32,13 @@
  Usage: Produces data objects for ESProducers in EventSetup system
 
 */
+
+//
+
+/** 
+
+ Description: Functional object used as the 'callback' for the CallbackESProductResolver
+
+ Usage: Produces data objects for ESProducers in EventSetup system
+
+*/
